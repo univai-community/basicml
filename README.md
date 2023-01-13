@@ -2,14 +2,19 @@
 Code-First Basic Machine Learning. Part of Code With Rahul.
 
 
-.
-├── ClassificationOnTitanic.ipynb
-├── ClassificationWithLogisticRegression.ipynb
-├── data
-├── images
-├── LICENSE
-├── README.md
-└── results
+## Contents
+
+```
+ClassificationOnTitanic.ipynb
+ClassificationWithLogisticRegression.ipynb
+data
+images
+LICENSE
+README.md
+results
+```
+
+## How to learn
 
 1. Start with ClassificationWithLogisticRegression.ipynb . This notebook introduces the basic concepts of
 Regression and Classification, in the context of a simple and simulated 1-feature classification problem. You
