@@ -16,13 +16,19 @@ results
 
 ## How to learn
 
-You can open the following notebooks in Colab with the links provided or use Github Codespaces right here to run the code. You will need to be signed in to your github account. Then, click on the green "Code" button and navigate to the Codespaces tab. It looks like this:
+Run the notebooks! You have 3 options:
+
+1. Fork/Clone or Clone to your own machine and run the notebooks there (this assumes you have a working jupyterlab setup with sklearn installed)
+2. You can open the notebooks in Colab with the links provided below
+3. You can use Github Codespaces right here to run the code. You will need to be signed in to your github account. Then, click on the green "Code" button and navigate to the Codespaces tab. It looks like this:
 
 ![](images/codespaces.png).
 
 Create the codespace by clicking on the "Create Codespace on main" green button. The repository will open up in Visual Studio Code (VSC). You can use the jupyter notebooks there since VSC supports Jupyter kernels. I recommend a light theme to go with the images I have used. If you forked this repo you can even add/commit/push your changes from VSC. 
 
 If you add a "/?editor=jupyter" to the codespace link, you can even open the codespace in Jupyterlab (this can be set as default in your settings)
+
+## The Notebooks
 
 (1) Start with ClassificationWithLogisticRegression.ipynb . This notebook introduces the basic concepts of
 Regression and Classification, in the context of a simple and simulated 1-feature classification problem. You
